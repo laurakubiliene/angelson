@@ -1,3 +1,6 @@
+//js taken from W3 Schools that apparently does not work yet
+
+
 function openCity(evt, cityName) {
   // Declare all variables
   var i, tabcontent, tablinks;
